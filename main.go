@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"reflect"
 
-	pb "github.com/Clement-Jean/proto-go-course/proto"
+	pb "github.com/pankajy-dev/proto-go-course/proto"
 	"google.golang.org/protobuf/proto"
 )
 
